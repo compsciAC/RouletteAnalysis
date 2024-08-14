@@ -39,7 +39,7 @@ The data used will be gathered from a locally created instance of the game. Data
 - `Time`: The time the spin ended.
 - `Balance`: The players balance after the bet is made.
 - `Multiplier` : How much the intial bet is being multiplied by.
-- `Iteration` : How many times the bet his been dubled from the base amount.
+- `Iteration` : How many times the bet has been doubled from the base amount.
 - `Red` The amount the player has bet on the specified colour: .
 - `Black` The amount the player has bet on the specified colour: .
 - `1-18` The amount the player has bet on the specified range: .
